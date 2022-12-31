@@ -15,7 +15,7 @@ Has been created using Node.js and Express.
 7. Enjoy the project
 
 ## Run tests.
-The project must be up, before run on console next line run on other console inside the directory 'npm start'
+The project must be up, before run on console next line run on other console inside the directory 'npm start' 
 For run test just run on console 'npm run test'
 Tests make with 'mocha' and 'chai'
 
