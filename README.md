@@ -25,19 +25,19 @@ This is a test. Here you can see the folder of each project parts.
 
 ## Run tests.
 
-### For front
-For run test just run on console 'npm run test'
-Tests make with 'jest' using '@testing-library/react' and '@testing-library/jest-dom' for dom
-
 ### For back
 The project must be up, before run on console next line run on other console inside the directory 'npm start'
 For run test just run on console 'npm run test'
 Tests make with 'mocha' and 'chai'
 
-## Requirements
-
 ### For front
-node > 16
+For run test just run on console 'npm run test'
+Tests make with 'jest' using '@testing-library/react' and '@testing-library/jest-dom' for dom
+
+## Requirements
 
 ### For back
 node > 14 (this version is required by the test, but can work with node v16 without problem)
+
+### For front
+node > 16
